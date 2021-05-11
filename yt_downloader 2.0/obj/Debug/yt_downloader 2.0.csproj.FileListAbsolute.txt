@@ -1,0 +1,16 @@
+J:\study\yt_downloader 2.0\yt_downloader 2.0\bin\Debug\yt_downloader 2.0.exe.config
+J:\study\yt_downloader 2.0\yt_downloader 2.0\bin\Debug\yt_downloader 2.0.exe
+J:\study\yt_downloader 2.0\yt_downloader 2.0\bin\Debug\yt_downloader 2.0.pdb
+J:\study\yt_downloader 2.0\yt_downloader 2.0\bin\Debug\libvideo.dll
+J:\study\yt_downloader 2.0\yt_downloader 2.0\bin\Debug\Newtonsoft.Json.dll
+J:\study\yt_downloader 2.0\yt_downloader 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+J:\study\yt_downloader 2.0\yt_downloader 2.0\bin\Debug\Newtonsoft.Json.xml
+J:\study\yt_downloader 2.0\yt_downloader 2.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+J:\study\yt_downloader 2.0\yt_downloader 2.0\obj\Debug\yt_downloader 2.0.csprojAssemblyReference.cache
+J:\study\yt_downloader 2.0\yt_downloader 2.0\obj\Debug\yt_downloader_2._0.Form1.resources
+J:\study\yt_downloader 2.0\yt_downloader 2.0\obj\Debug\yt_downloader_2._0.Properties.Resources.resources
+J:\study\yt_downloader 2.0\yt_downloader 2.0\obj\Debug\yt_downloader 2.0.csproj.GenerateResource.cache
+J:\study\yt_downloader 2.0\yt_downloader 2.0\obj\Debug\yt_downloader 2.0.csproj.CoreCompileInputs.cache
+J:\study\yt_downloader 2.0\yt_downloader 2.0\obj\Debug\yt_downloader 2.0.csproj.CopyComplete
+J:\study\yt_downloader 2.0\yt_downloader 2.0\obj\Debug\yt_downloader 2.0.exe
+J:\study\yt_downloader 2.0\yt_downloader 2.0\obj\Debug\yt_downloader 2.0.pdb
